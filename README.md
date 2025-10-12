@@ -58,4 +58,4 @@ Bước 4:
 +/Import file ecomerce_php.sql
 Bước 5:
 +/Mở XAMPP Control Panel → Start Apache và MySQL, 
-+/Sau đó truy cập: http://localhost/ecomerce2
++/Sau đó truy cập: http://localhost/ecomerce2/
