@@ -47,9 +47,15 @@ Các bước cơ bản:
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/QuangNguyen12-QNG/ecomerce2.git
-cd ecomerce2
-
-### 2. Nếu bạn đã cài Composer, chạy lệnh:
+Bước 1: git clone https://github.com/QuangNguyen12-QNG/ecomerce2.git
+Bước 2: cd ecomerce2
+Bước 3: Nếu bạn đã cài Composer, chạy lệnh:
 composer install
-nếu chưa: https://getcomposer.org/download/
+Nếu chưa: https://getcomposer.org/download/
+Bước 4:
++/Mở phpMyAdmin
++/Tạo database mới tên ecomerce_php
++/Import file ecomerce_php.sql
+Bước 5:
++/Mở XAMPP Control Panel → Start Apache và MySQL, 
++/Sau đó truy cập: http://localhost/ecomerce2
