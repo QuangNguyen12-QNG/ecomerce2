@@ -48,7 +48,7 @@ Các bước cơ bản:
 
 ```bash
 Bước 1: git clone https://github.com/QuangNguyen12-QNG/ecomerce2.git
-Bước 2: cd ecomerce2
+Bước 2: cd C:\xampp\htdocs\ecomerce2
 Bước 3: Nếu bạn đã cài Composer, chạy lệnh:
 composer install
 Nếu chưa: https://getcomposer.org/download/
