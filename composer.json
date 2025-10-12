@@ -1,0 +1,22 @@
+{
+  "name": "hungdzai/ecomerce2",
+  "description": "Du an web ban hang",
+  "autoload": {
+    "psr-4": {
+      "Hungdzai\\Ecomerce2\\": [
+        "vendor/"
+      ]
+    }
+  },
+  "authors": [
+    {
+      "name": "HUNGDAO",
+      "email": "aphong213@gmail.com"
+    }
+  ],
+  "require": {
+    "phpmailer/phpmailer": "^6.8",
+    "cloudinary/cloudinary_php": "*",
+    "tecnickcom/tcpdf": "^6.6"
+  }
+}
