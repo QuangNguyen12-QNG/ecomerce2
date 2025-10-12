@@ -55,7 +55,7 @@ Nếu chưa: https://getcomposer.org/download/
 Bước 4:
 +/Mở phpMyAdmin
 +/Tạo database mới tên ecomerce_php
-+/Import file ecomerce_php.sql
++/Import file ecommerce_php.sql
 Bước 5:
 +/Mở XAMPP Control Panel → Start Apache và MySQL, 
 +/Sau đó truy cập: http://localhost/ecomerce2/
