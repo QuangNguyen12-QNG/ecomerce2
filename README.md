@@ -36,7 +36,7 @@ ecomerce2/
 - Web server (Apache / Nginx)  
 - Database (MySQL, MariaDB, v.v.)  
 - Khả năng bật `mod_rewrite` nếu bạn sử dụng URL đẹp / routing  
-
+- Xampp >= 8.1
 ---
 
 ## 🔧 Cài đặt & chạy
