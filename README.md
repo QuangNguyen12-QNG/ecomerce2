@@ -31,8 +31,7 @@ ecomerce2/
 ---
 
 ## 🛠 Yêu cầu
-
-- PHP >= 7.x hoặc 8.x  
+1 
 - Composer  
 - Web server (Apache / Nginx)  
 - Database (MySQL, MariaDB, v.v.)  
